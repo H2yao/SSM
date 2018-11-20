@@ -1,1 +1,1 @@
-# SSM
+# Spring + SpringMVC + Mybatis
